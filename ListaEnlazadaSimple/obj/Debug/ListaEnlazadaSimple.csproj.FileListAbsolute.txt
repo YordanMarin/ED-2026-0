@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\bin\Debug\ListaEnlazadaSimple.exe.config
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\bin\Debug\ListaEnlazadaSimple.exe
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\bin\Debug\ListaEnlazadaSimple.pdb
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\obj\Debug\ListaEnlazadaSimple.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\obj\Debug\ListaEnlazadaSimple.Form1.resources
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\obj\Debug\ListaEnlazadaSimple.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\obj\Debug\ListaEnlazadaSimple.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\obj\Debug\ListaEnlazadaSimple.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\obj\Debug\ListaEnlazadaSimple.exe
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\obj\Debug\ListaEnlazadaSimple.pdb
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaSimple\obj\Debug\ListaEnlazadaSimple.exe.config
