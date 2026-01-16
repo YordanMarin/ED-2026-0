@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\bin\Debug\ListaEnlazadaDoble.exe.config
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\bin\Debug\ListaEnlazadaDoble.exe
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\bin\Debug\ListaEnlazadaDoble.pdb
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.Form1.resources
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.exe
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.pdb
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDoble\obj\Debug\ListaEnlazadaDoble.exe.config

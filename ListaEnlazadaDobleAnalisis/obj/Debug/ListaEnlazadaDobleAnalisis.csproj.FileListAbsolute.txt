@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\bin\Debug\ListaEnlazadaDobleAnalisis.exe.config
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\bin\Debug\ListaEnlazadaDobleAnalisis.exe
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\bin\Debug\ListaEnlazadaDobleAnalisis.pdb
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\obj\Debug\ListaEnlazadaDobleAnalisis.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\obj\Debug\ListaEnlazadaDobleAnalisis.Form1.resources
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\obj\Debug\ListaEnlazadaDobleAnalisis.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\obj\Debug\ListaEnlazadaDobleAnalisis.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\obj\Debug\ListaEnlazadaDobleAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\obj\Debug\ListaEnlazadaDobleAnalisis.exe
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\obj\Debug\ListaEnlazadaDobleAnalisis.pdb
+C:\Users\UPN\Desktop\ED\ED-2026-0\ListaEnlazadaDobleAnalisis\obj\Debug\ListaEnlazadaDobleAnalisis.exe.config
