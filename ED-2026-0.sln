@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaEnlazadaDoble", "Lista
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaEnlazadaDobleAnalisis", "ListaEnlazadaDobleAnalisis\ListaEnlazadaDobleAnalisis.csproj", "{F177B8B3-D561-4116-A2E1-B04F9FCDF545}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilas", "Pilas\Pilas.csproj", "{FFF69118-7223-4170-B8E5-D9BC27D693A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colas", "Colas\Colas.csproj", "{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F177B8B3-D561-4116-A2E1-B04F9FCDF545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F177B8B3-D561-4116-A2E1-B04F9FCDF545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F177B8B3-D561-4116-A2E1-B04F9FCDF545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF69118-7223-4170-B8E5-D9BC27D693A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF69118-7223-4170-B8E5-D9BC27D693A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF69118-7223-4170-B8E5-D9BC27D693A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF69118-7223-4170-B8E5-D9BC27D693A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

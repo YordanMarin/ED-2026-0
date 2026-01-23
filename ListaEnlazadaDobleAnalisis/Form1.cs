@@ -47,5 +47,37 @@ namespace ListaEnlazadaDobleAnalisis
             }
             else MessageBox.Show("No se permiten buscar nombres nulos");
         }
+
+        private void btnModifcar_Click(object sender, EventArgs e)
+        {
+            if (listView1.SelectedItems.Count > 0)
+            {
+                string sele = listView1.SelectedItems[0].Text;
+
+                if (!string.IsNullOrWhiteSpace(textNombre.Text) && byte.TryParse(textEdad.Text, out byte ed) && ed >= 10 && ed <= 130)
+                {
+                    l.modificar(sele, textNombre.Text.Trim(), ed);
+                    listView1.Items.Clear();
+                    l.mostrar(listView1);
+                    textNombre.Clear();
+                    textEdad.Clear();
+                }
+                else MessageBox.Show("Ingrese los valores validos!");
+            }
+            else MessageBox.Show("Debe de seleccionar un nombre.");
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if (listView1.SelectedItems.Count > 0)
+            {
+                string sele = listView1.SelectedItems[0].Text;
+
+                l.eliminar(sele);
+                listView1.Items.Clear();
+                l.mostrar(listView1);
+            }
+            else MessageBox.Show("Debe de seleccionar un nombre.");
+        }
     }
 }

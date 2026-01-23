@@ -58,5 +58,42 @@ namespace ListaEnlazadaDobleAnalisis
             }
             return null;
         }
+
+        public void modificar(string actualNom, string nuevoNom, byte nuevaEd)
+        {
+            Nodo modi = buscar(actualNom);
+
+            if (modi != null)
+            {
+                modi.Nombre = nuevoNom;
+                modi.Edad = nuevaEd;
+            }
+        }
+
+        public void eliminar(string nom)
+        {
+            Nodo eli = buscar(nom);
+
+            if(eli != null)
+            {
+                if (eli == primero)
+                {
+                    primero = primero.Siguiente;
+                    if (primero != null)
+                        primero.Anterior = null;
+                }
+                else if (eli == ultimo)
+                {
+                    ultimo = ultimo.Anterior;
+                    if (ultimo != null)
+                        ultimo.Siguiente = null;
+                }
+                else
+                {
+                    eli.Anterior.Siguiente = eli.Siguiente;
+                    eli.Siguiente.Anterior = eli.Anterior;
+                }
+            }
+        }
     }
 }

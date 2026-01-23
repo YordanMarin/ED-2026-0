@@ -36,10 +36,10 @@
             this.textEdad = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
-            this.btnBuscar = new System.Windows.Forms.Button();
-            this.btnModifcar = new System.Windows.Forms.Button();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.btnBuscar = new System.Windows.Forms.Button();
+            this.btnModifcar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnEliminar
@@ -51,6 +51,7 @@
             this.btnEliminar.TabIndex = 23;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnInsertar
             // 
@@ -123,6 +124,16 @@
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
             // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "NOMBRES";
+            this.columnHeader1.Width = 216;
+            // 
+            // columnHeader2
+            // 
+            this.columnHeader2.Text = "EDAD";
+            this.columnHeader2.Width = 296;
+            // 
             // btnBuscar
             // 
             this.btnBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -143,14 +154,7 @@
             this.btnModifcar.TabIndex = 29;
             this.btnModifcar.Text = "Modificar";
             this.btnModifcar.UseVisualStyleBackColor = true;
-            // 
-            // columnHeader1
-            // 
-            this.columnHeader1.Text = "NOMBRES";
-            // 
-            // columnHeader2
-            // 
-            this.columnHeader2.Text = "EDAD";
+            this.btnModifcar.Click += new System.EventHandler(this.btnModifcar_Click);
             // 
             // Form1
             // 
