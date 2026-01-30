@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilas", "Pilas\Pilas.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colas", "Colas\Colas.csproj", "{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilaListasPreInPostFija", "PilaListasPreInPostFija\PilaListasPreInPostFija.csproj", "{65343D7B-0C1F-4B1F-9487-E092295865DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolBinario", "ArbolBinario\ArbolBinario.csproj", "{BACC3512-9319-4AF5-A6D1-D03101A08702}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5C1CEA0-9F9A-4147-9033-CB83D17360A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65343D7B-0C1F-4B1F-9487-E092295865DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65343D7B-0C1F-4B1F-9487-E092295865DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65343D7B-0C1F-4B1F-9487-E092295865DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65343D7B-0C1F-4B1F-9487-E092295865DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACC3512-9319-4AF5-A6D1-D03101A08702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACC3512-9319-4AF5-A6D1-D03101A08702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACC3512-9319-4AF5-A6D1-D03101A08702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACC3512-9319-4AF5-A6D1-D03101A08702}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

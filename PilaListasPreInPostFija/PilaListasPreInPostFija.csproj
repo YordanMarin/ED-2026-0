@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FFF69118-7223-4170-B8E5-D9BC27D693A2}</ProjectGuid>
+    <ProjectGuid>{65343D7B-0C1F-4B1F-9487-E092295865DA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Pilas</RootNamespace>
-    <AssemblyName>Pilas</AssemblyName>
+    <RootNamespace>PilaListasPreInPostFija</RootNamespace>
+    <AssemblyName>PilaListasPreInPostFija</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -53,6 +53,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lista.cs" />
     <Compile Include="Nodo.cs" />
     <Compile Include="Pila.cs" />
     <Compile Include="Program.cs" />

@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\bin\Debug\PilaListasPreInPostFija.exe.config
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\bin\Debug\PilaListasPreInPostFija.exe
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\bin\Debug\PilaListasPreInPostFija.pdb
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\obj\Debug\PilaListasPreInPostFija.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\obj\Debug\PilaListasPreInPostFija.Form1.resources
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\obj\Debug\PilaListasPreInPostFija.Properties.Resources.resources
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\obj\Debug\PilaListasPreInPostFija.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\obj\Debug\PilaListasPreInPostFija.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\obj\Debug\PilaListasPreInPostFija.exe
+C:\Users\UPN\Desktop\ED\ED-2026-0\PilaListasPreInPostFija\obj\Debug\PilaListasPreInPostFija.pdb
